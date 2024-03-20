@@ -1,0 +1,2 @@
+# Pico_USB_Keyboard_Sample
+Raspberry Pi Picoを仮想キーボードとして認識させるサンプル
